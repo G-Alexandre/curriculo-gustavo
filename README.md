@@ -15,8 +15,6 @@ curriculo/
 ├── style.css # Estilos personalizados
 └── script.js # Funções JS (tema e ano)
 
-markdown
-Copiar código
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**
